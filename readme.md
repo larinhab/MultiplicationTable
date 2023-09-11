@@ -16,15 +16,15 @@ Just a multiplication table. <br/> </p>
 </p>
 
 <p align="center">
-  <img alt="" src="./src/assets/readme2" width="100%">
+  <img alt="" src="./src/assets/readme2.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="" src="./src/assets/readme3" width="100%">
+  <img alt="" src="./src/assets/readme3.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="" src="./src/assets/readme4" width="100%">
+  <img alt="" src="./src/assets/readme4.png" width="100%">
 </p>
 
 
